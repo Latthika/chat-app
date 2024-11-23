@@ -35,3 +35,10 @@ git clone https://your-repo-url.git cd your-repo-directory
 ```
 npm install
 ```
+
+<p>3. Create a project on the Chat Engine dashboard: <p>
+<p>Obtain your Project ID.</p> <p>Set up a new user with a username password and avatar</p>
+
+<p>4. Configure your project: <p>
+<p>Add your Project ID in the code where specified.</p> <p>Ensure your API keys are set correctly for authentication.</p>
+
